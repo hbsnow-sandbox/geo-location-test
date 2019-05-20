@@ -1,0 +1,14 @@
+{
+  "name": "geo-location-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hbsnow-sandbox/geo-location-test.git",
+  "author": "hbsnow <yuki.4uing@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "browser-sync start -s docs -f '**/*.js'"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.5"
+  }
+}
